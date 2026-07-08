@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hexo Blog Workflow"
+  short_description: "Draft, preview, and publish Hexo posts"
+  default_prompt: "Use $hexo-blog-workflow to draft, preview, or publish a Hexo blog post."
